@@ -42,3 +42,5 @@
   - [ContinuousDPs.jl](https://github.com/QuantEcon/ContinuousDPs.jl) [Issues](https://github.com/QuantEcon/ContinuousDPs.jl/issues)
 
 ## PRの練習用
+
+こんにちは
